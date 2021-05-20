@@ -2,17 +2,19 @@
  <div align="center">
   <h1>My Blog App</h1>
   
-  ## Samples View
+ 
+</div>
+ ## Samples View
   ### Part 1
-</div>![fil1](https://user-images.githubusercontent.com/58850584/118956236-0d4af980-b97d-11eb-828d-2b750f217b17.png)
+![fil1](https://user-images.githubusercontent.com/58850584/118956236-0d4af980-b97d-11eb-828d-2b750f217b17.png)
 
  ### Part 1
 ![file2](https://user-images.githubusercontent.com/58850584/118956307-1b991580-b97d-11eb-8d2f-7c1125e8a6c5.png)
 
- ### Part 1
+ ### Part 2
 ![file2](https://user-images.githubusercontent.com/58850584/118956348-25227d80-b97d-11eb-9689-ea3847b11f82.png)
 
- ### Part 1
+ ### Part 3
 ![file3](https://user-images.githubusercontent.com/58850584/118956374-29e73180-b97d-11eb-8e03-8ed319ff16e4.png)
 
 ### Above Is not The End, Still............
