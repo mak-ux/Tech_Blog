@@ -78,7 +78,7 @@ npm start
 
 https://blog-app-kanhaiya.netlify.app/
 
-### Rest API
+### Rest API,developed by Me
 
 https://myblgapp.herokuapp.com/article
 
