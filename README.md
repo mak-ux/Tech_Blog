@@ -78,6 +78,10 @@ npm start
 
 https://blog-app-kanhaiya.netlify.app/
 
+### Rest API
+
+https://myblgapp.herokuapp.com/article
+
 ## This is not the end of the project,there is always a room for improvement.
 ## Drop your feedback,I will surely work on it.
 ## Do you have some Idea ?
