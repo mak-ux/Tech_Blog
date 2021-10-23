@@ -73,5 +73,12 @@ npm start
 
 * Now you are all set to use this project.
 ## Link Is For You, Just Rate My Work.
+
 ### Your rating means a Lot.
+
 https://blog-app-kanhaiya.netlify.app/
+
+## This is not the end of the project,there is always a room for improvement.
+## Drop your feedback,I will surely work on it.
+## Do you have some Idea ?
+### if yes,drop me a message ,lets work on it.
